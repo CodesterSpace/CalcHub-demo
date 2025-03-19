@@ -233,3 +233,9 @@
 
 }
 
+ /* Petit ecran */
+ @media (max-width: 768px) {
+  .modal__content{
+    padding-top: 25%;
+  }
+
